@@ -15,11 +15,11 @@ being explicitly programmed.
 
 #Characteristics
 
-Generic response
-Limited context
-Basic explanation
-Suitable for quick answers
-May not match the target audience
+.Generic response
+.Limited context
+.Basic explanation
+.Suitable for quick answers
+.May not match the target audience
 
 ** Role-Based Prompting
 
@@ -44,9 +44,9 @@ over time.
 
 #Characteristics
 
-More targeted response
-Better structure
-Audience-specific explanation
-Improved clarity
-More practical examples
-Side-by-Side Comparison
+.More targeted response
+.Better structure
+.Audience-specific explanation
+.Improved clarity
+.More practical examples
+.Side-by-Side Comparison
